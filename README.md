@@ -2,7 +2,7 @@
 This is a 2d game I made using SDL. the game have 2-4 levels followed by a boss level. In this project I developed an component system, this includes a animation component and a collision componet. I also developed Ai that work off of a state machine, other things in this project that i deem noteable are:
 -- A User interface
 
--- A Scence Manager
+-- A Scene Manager
 
 -- The ability to save your progress
 
