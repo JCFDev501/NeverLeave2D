@@ -1,0 +1,187 @@
+﻿  AiStateChase.cpp
+  AiStateMachine.cpp
+  Animator.cpp
+  BackAndForwardMover.cpp
+  Bomb.cpp
+  BossStage.cpp
+  Boxes.cpp
+  Chest.cpp
+  Coins.cpp
+  Collider.cpp
+  CollisionManager.cpp
+  DungeonCrawlerGame.cpp
+  FairyFountain.cpp
+  FireBall.cpp
+  Floor.cpp
+  FloorTrap.cpp
+  Gates.cpp
+  Ghost.cpp
+  Bat.cpp
+  GuardZombie.cpp
+  Compiling...
+  ImageHandler.cpp
+  Key.cpp
+  KeyboardAndMouse.cpp
+  LoseScreen.cpp
+  Main.cpp
+  MainMenu.cpp
+  BackGround.cpp
+  ManaCrystal.cpp
+  MenuButton.cpp
+  AiStatePatrol.cpp
+  PlayerCharacter.cpp
+  Door.cpp
+  QuitButton.cpp
+  RestartButton.cpp
+  SDL_Game.cpp
+  Switch.cpp
+  TextureManager.cpp
+  Tile.cpp
+  TileMap.cpp
+  Tutorial.cpp
+  Compiling...
+  PlayButton.cpp
+  Ui.cpp
+  UITextField.cpp
+  Walls.cpp
+  WinScreen.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1327 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  My_SDL_Game.vcxproj -> C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\x64\Release\My_SDL_Game.exe
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\bomb.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\bossStageBackGround.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\cat.bmp
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\CrakedFloor.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\CrakedFloor2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\CrakedFloor3.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\door.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\door2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_box.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_Floor1.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_Floor2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_Floor3.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_Floor4.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_wall.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\ExitButton.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\ExitButton2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\FairyFountain.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\FireBall.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Floor.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\FloorSpikes.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\ghost.gif
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\GreenActivate.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\loseBackGround.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Main Menu Background.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Menu2Button.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MenuButton.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\playButton.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\playButton2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Player_Idle.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\QuitButton.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\QuitButton2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\ReStart.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\ReStart2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\shield.jpg
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Swich1.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Swich2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\TopLeftCorner.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\TopRightCorner.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\tutorialBackGround.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\UI.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Untitled-1.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallBottom.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallBottomLeftCorner.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallBottomRightCorner.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallLeft.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallRight.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallTop.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WinBackGround.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\bat.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\BlueCrystal.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\Bomb.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\coin.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\DumbGhost.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\Enemy_Movement_Sprite_Sheet.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\green_coin.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\idle.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\idle_left.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\KeyBlue.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\player_Movement_Sprite_Sheet.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\player_Movement_Sprite_SheetGreen.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\run.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\run_left.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\Untitled-2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Fonts\handwriting-draft_free-version.ttf
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Levels\Room1.txt
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Levels\Room2.txt
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Levels\Room3.txt
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Levels\Room4.txt
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Levels\Room5.txt
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Levels\RoomProrto.txt
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Levels\RoomTemplet.txt
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MusicAndSound\BatScreech.wav
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MusicAndSound\Chopsticks.mp3
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MusicAndSound\coinSound.wav
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MusicAndSound\Door_Open.wav
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MusicAndSound\Dungeon_Level.mp3
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MusicAndSound\fireBallCast.wav
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MusicAndSound\Heal.wav
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MusicAndSound\Hurt.wav
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MusicAndSound\Lever_Switch.wav
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\Block.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\BottomConnerFLeft.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\BottomConnerFRight.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\BottomConnerLeft.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\BottomConnerRight.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\BottomFTile.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\BottomHole.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\BottomLeftConnerHole.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\BottomRightConnerHole.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\BottomTile.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\Chest.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\ChestOpened.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\ConnerFTileLeft.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\ConnerFTileRight.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\ConnerTileLeft.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\ConnerTileRight.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\Door.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\dungeon_box.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\Floor.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\Gate.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\GateDown.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\GateDownOpend.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\GateLeft.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\GateLeftOpened.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\GateOpend.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\GateRight.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\GateRightOpend.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\Hole.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\LeftConnerHole.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\LeftFTile.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\LeftHole.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\LeftTile.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\RightCornerHole.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\RightFTile.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\RightHole.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\RightTile.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\TopFTile.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\TopHole.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Tiles\TopTile.png
+  119 File(s) copied

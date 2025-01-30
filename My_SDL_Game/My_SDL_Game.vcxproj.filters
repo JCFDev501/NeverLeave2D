@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="PlayerCharacter">
+      <UniqueIdentifier>{13a00838-baf2-48ca-ade7-bb4c254c2220}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Interfaces">
+      <UniqueIdentifier>{6ee6eb95-b4ad-4594-a1f1-bd957a0099f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Other">
+      <UniqueIdentifier>{15d5439b-8d74-4393-aecf-b79638cd877a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Controllers">
+      <UniqueIdentifier>{56a100c6-60a9-450b-b7c0-ee9ba46c56f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tools">
+      <UniqueIdentifier>{7d255beb-a193-4a91-97f1-c26663597c9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Levels">
+      <UniqueIdentifier>{743a8187-e51b-4048-899a-def56ab9c158}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemies">
+      <UniqueIdentifier>{26935d96-37a7-49e6-b29a-3e3fc6231a68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components">
+      <UniqueIdentifier>{6f83c683-e7e6-46c3-8115-bc78c128b85d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Animation Component">
+      <UniqueIdentifier>{b7d4ad84-47f6-4512-86c7-00cce4d81c96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Collision Component">
+      <UniqueIdentifier>{feefbb1f-8a1f-4548-a35c-f25da9d8310e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers">
+      <UniqueIdentifier>{46b36c03-d0a7-4e96-b25f-63045f9d24e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Levels\Props">
+      <UniqueIdentifier>{f6b66b9e-1ca2-4e73-918e-e278dd4854ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{d88d67a8-2b92-471f-9e90-ad8056fe1e0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Buttons">
+      <UniqueIdentifier>{38e2d614-2027-4349-a0ad-c2217330748c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Levels\Screens">
+      <UniqueIdentifier>{80a7d138-299d-40ed-ae0d-068f89bca7bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ai">
+      <UniqueIdentifier>{d3e5f2ed-443f-4872-9009-830f2b9ea196}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Levels\Floor1">
+      <UniqueIdentifier>{21ae4a40-ca86-4439-bec2-d94cff688170}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PlayerCharacter\Abilities">
+      <UniqueIdentifier>{4dda3f0f-9dbb-427f-8cb5-2e2f2c3cfb3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Levels\Tiles">
+      <UniqueIdentifier>{8ca86613-2d80-442c-87a7-7721d3c3dcb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Particles">
+      <UniqueIdentifier>{a5d83d81-6eb3-4af2-9a51-af841e0bd5ef}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SDL_Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerCharacter.cpp">
+      <Filter>PlayerCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="BackAndForwardMover.cpp">
+      <Filter>Other</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyboardAndMouse.cpp">
+      <Filter>Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="Boxes.cpp">
+      <Filter>Levels\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="Ghost.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageHandler.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Coins.cpp">
+      <Filter>Levels\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>Components\Animation Component</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Components\Collision Component</Filter>
+    </ClCompile>
+    <ClCompile Include="FairyFountain.cpp">
+      <Filter>Levels\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="FloorTrap.cpp">
+      <Filter>Levels\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Walls.cpp">
+      <Filter>Levels\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonCrawlerGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGround.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Switch.cpp">
+      <Filter>Levels\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="Door.cpp">
+      <Filter>Levels\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="UITextField.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuButton.cpp">
+      <Filter>UI\Buttons</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayButton.cpp">
+      <Filter>UI\Buttons</Filter>
+    </ClCompile>
+    <ClCompile Include="QuitButton.cpp">
+      <Filter>UI\Buttons</Filter>
+    </ClCompile>
+    <ClCompile Include="RestartButton.cpp">
+      <Filter>UI\Buttons</Filter>
+    </ClCompile>
+    <ClCompile Include="LoseScreen.cpp">
+      <Filter>Levels\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="WinScreen.cpp">
+      <Filter>Levels\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Levels\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="Tutorial.cpp">
+      <Filter>Levels\Screens</Filter>
+    </ClCompile>
+    <ClCompile Include="AiStateChase.cpp">
+      <Filter>Ai</Filter>
+    </ClCompile>
+    <ClCompile Include="AiStateMachine.cpp">
+      <Filter>Ai</Filter>
+    </ClCompile>
+    <ClCompile Include="AiStateFlee.cpp">
+      <Filter>Ai</Filter>
+    </ClCompile>
+    <ClCompile Include="Bat.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="GuardZombie.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="BossStage.cpp">
+      <Filter>Levels\Floor1</Filter>
+    </ClCompile>
+    <ClCompile Include="FireBall.cpp">
+      <Filter>PlayerCharacter\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Levels\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMap.cpp">
+      <Filter>Levels\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>Levels\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="Key.cpp">
+      <Filter>Levels\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="ManaCrystal.cpp">
+      <Filter>Levels\Props</Filter>
+    </ClCompile>
+    <ClCompile Include="Chest.cpp">
+      <Filter>Levels\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Floor.cpp">
+      <Filter>Levels\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Gates.cpp">
+      <Filter>Levels\Tiles</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1.cpp">
+      <Filter>Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="Level2.cpp">
+      <Filter>Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="Level3.cpp">
+      <Filter>Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="Level4.cpp">
+      <Filter>Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="Level5.cpp">
+      <Filter>Levels</Filter>
+    </ClCompile>
+    <ClCompile Include="DumbGhost.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="AiStateWonder.cpp">
+      <Filter>Ai</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystem.cpp">
+      <Filter>Particles</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveData.cpp">
+      <Filter>Tools</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SDL_Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerCharacter.h">
+      <Filter>PlayerCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="BackAndForwardMover.h">
+      <Filter>Other</Filter>
+    </ClInclude>
+    <ClInclude Include="Direction.h">
+      <Filter>PlayerCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyboardAndMouse.h">
+      <Filter>Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="Boxes.h">
+      <Filter>Levels\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="Ghost.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageHandler.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Coins.h">
+      <Filter>Levels\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator.h">
+      <Filter>Components\Animation Component</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Components\Collision Component</Filter>
+    </ClInclude>
+    <ClInclude Include="FairyFountain.h">
+      <Filter>Levels\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="FloorTrap.h">
+      <Filter>Levels\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Walls.h">
+      <Filter>Levels\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateMachine.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonCrawlerGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGround.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Door.h">
+      <Filter>Levels\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="Switch.h">
+      <Filter>Levels\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="UITextField.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuButton.h">
+      <Filter>UI\Buttons</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayButton.h">
+      <Filter>UI\Buttons</Filter>
+    </ClInclude>
+    <ClInclude Include="QuitButton.h">
+      <Filter>UI\Buttons</Filter>
+    </ClInclude>
+    <ClInclude Include="RestartButton.h">
+      <Filter>UI\Buttons</Filter>
+    </ClInclude>
+    <ClInclude Include="LoseScreen.h">
+      <Filter>Levels\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="WinScreen.h">
+      <Filter>Levels\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Levels\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="Tutorial.h">
+      <Filter>Levels\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="AiStateChase.h">
+      <Filter>Ai</Filter>
+    </ClInclude>
+    <ClInclude Include="AiStateMachine.h">
+      <Filter>Ai</Filter>
+    </ClInclude>
+    <ClInclude Include="AiStateFlee.h">
+      <Filter>Ai</Filter>
+    </ClInclude>
+    <ClInclude Include="Bat.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="GuardZombie.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="BossStage.h">
+      <Filter>Levels\Floor1</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="FireBall.h">
+      <Filter>PlayerCharacter\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Levels\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMap.h">
+      <Filter>Levels\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>Levels\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="Key.h">
+      <Filter>Levels\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="ManaCrystal.h">
+      <Filter>Levels\Props</Filter>
+    </ClInclude>
+    <ClInclude Include="Chest.h">
+      <Filter>Levels\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Gates.h">
+      <Filter>Levels\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Floor.h">
+      <Filter>Levels\Tiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1.h">
+      <Filter>Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="Level2.h">
+      <Filter>Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="Level3.h">
+      <Filter>Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="Level4.h">
+      <Filter>Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="Level5.h">
+      <Filter>Levels</Filter>
+    </ClInclude>
+    <ClInclude Include="DumbGhost.h">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="AiStateWonder.h">
+      <Filter>Ai</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>Particles</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomNumberGen.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveData.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Questions For Instructor.txt" />
+  </ItemGroup>
+</Project>

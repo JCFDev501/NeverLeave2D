@@ -1,0 +1,3 @@
+Hey,
+Any segestions on how i can fix my damage and health tick it currently runs on frame time but i want it to run on delta time.
+

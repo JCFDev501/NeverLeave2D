@@ -1,0 +1,78 @@
+﻿  DungeonCrawlerGame.cpp
+  MainMenu.cpp
+  SDL_Game.cpp
+  Generating Code...
+  My_SDL_Game.vcxproj -> C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\Debug\My_SDL_Game.exe
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\cat.bmp
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\CrakedFloor.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\CrakedFloor2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\CrakedFloor3.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\door.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\door2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_box.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_Floor1.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_Floor2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_Floor3.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_Floor4.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\dungeon_wall.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\ExitButton.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\ExitButton2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\FairyFountain.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Floor.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\FloorSpikes.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\ghost.gif
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\GreenActivate.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\loseBackGround.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Main Menu Background.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Menu2Button.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MenuButton.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\playButton.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\playButton2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Player_Idle.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\QuitButton.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\QuitButton2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\ReStart.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\ReStart2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\shield.jpg
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Swich1.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Swich2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\TopLeftCorner.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\TopRightCorner.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\tutorialBackGround.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Untitled-1.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallBottom.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallBottomLeftCorner.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallBottomRightCorner.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallLeft.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallRight.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WallTop.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\WinBackGround.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\coin.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\Enemy_Movement_Sprite_Sheet.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\green_coin.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\idle.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\idle_left.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\player_Movement_Sprite_Sheet.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\player_Movement_Sprite_SheetGreen.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\run.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\run_left.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Animations\Untitled-2.png
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\Fonts\handwriting-draft_free-version.ttf
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MusicAndSound\Chopsticks.mp3
+  C:\Users\jayli\OneDrive\Desktop\preForceStuff\jferrell4\My_SDL_Game\My_SDL_Game\assets\MusicAndSound\Dungeon_Level.mp3
+  57 File(s) copied
